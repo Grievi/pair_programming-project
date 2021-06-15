@@ -6,6 +6,7 @@
 * Lions
 * Tigers
 * Domestic cats
+* Cheetahs
 ### The table below will show a brief description of the cats.
 |Breed | Origin| Weight| Habitat|
 |-----------|------------|----------|------------|
