@@ -7,8 +7,9 @@
 * Tigers
 * Domestic cats
 ### The table below will show a brief description of the cats.
-|:--Breed | :--Origin|:--Weight| Habitat|
-|:--Lion | :--Africa|:--weighs up to 200kgs|:--Savannah Africa|
-|:--Tiger |:--Asia |:--weighs up to 300kgs|:--Rain Forest|
-|:--Cheetah|:--Africa|:--weighs up to 90kgs |:Savannah Africa|
-|:--Domestic cat |:--Egypt|:weighs upto 7kgs |:--Our homes|
+|Breed | Origin| Weight| Habitat|
+|-----------|------------|----------|------------|
+|Lion | Africa|weighs up to 200kgs|Savannah Africa|
+|Tiger |Asia |weighs up to 300kgs|Rain Forest|
+|Cheetah|Africa|weighs up to 90kgs |Savannah Africa|
+|Domestic cat |Egypt|weighs upto 7kgs |Our homes|
